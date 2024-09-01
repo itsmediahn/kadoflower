@@ -1,3 +1,7 @@
+onload = () => {
+    document.body.classList.remove("container");
+};
+
 <!DOCTYPE html>
 <html lang="en">
 </head>
@@ -7,6 +11,3 @@
 </div>
 </body>
 </html>
-onload = () => {
-    document.body.classList.remove("container");
-};
