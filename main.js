@@ -1,4 +1,5 @@
 onload = () => {
     document.body.classList.remove("container");
-     const titles = ('I LOVE U').split('')
+    <div class="description">
+        <span>From CGP Angk.10 Kab.Luwu Utara</span>
 };
