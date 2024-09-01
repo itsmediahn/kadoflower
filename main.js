@@ -1,5 +1,3 @@
-onload = () => {
-    document.body.classList.remove("container");
 <!DOCTYPE html>
 <html>
  <head>
@@ -9,4 +7,6 @@ onload = () => {
   <marquee>We Love You Bu Nurhana</marquee>
  </body>
 </html>
+onload = () => {
+    document.body.classList.remove("container");
 };
