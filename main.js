@@ -1,10 +1,12 @@
 onload = () => {
     document.body.classList.remove("container");
-};
-</head>
-<body>
-    <div class="description">
-        <span>From CGP Angk.10 Kab.Luwu Utara</span>
-</div>
-</body>
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Default Width dan Height di Tag Marquee</title>
+ </head>
+ <body>
+  <marquee>We Love You Bu Nurhana</marquee>
+ </body>
 </html>
+};
