@@ -1,6 +1,6 @@
 onload = () =>{
         const c = setTimeout(() => {
-        document.body.classList.remove("container");
+        document.body.classList.remove("not-loaded");
         
     const titles = ('We Love You Bu Nurhana').split('')
     const titleElement = document.getElementById('title');
