@@ -5,10 +5,8 @@
     <div class="greetings">
     <span>Bu Nurhana</span>
 </div>
-<head>
-    onload = () => {
-    document.body.classList.remove("container");
-};
-</div>
 </body>
 </html>
+onload = () => {
+    document.body.classList.remove("container");
+};
