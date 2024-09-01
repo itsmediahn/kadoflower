@@ -1,7 +1,7 @@
 
 onload = () => {
   const c = setTimeout(() => {
-    document.body.classList.remove("not-loaded");
+    document.body.classList.remove("container");
 
     const titles = ('I LOVE U').split('')
     const titleElement = document.getElementById('title');
